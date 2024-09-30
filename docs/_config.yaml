@@ -1,0 +1,12 @@
+title: "On Creating an English-Thai Code-switched Machine Translation in Medical Domain"
+description: "Parinthapat Pengpun, Krittamate Tiankanon, Amrest Chinkamol, Jiramet Kinchagawat, Pitchaya Chairuengjitjaras, Pasit Supholkhan, Pubordee Aussavavirojekul, Chiraphat Boonnag, Kanyakorn Veerakanjana, Hirunkul Phimsiri, Boonthicha Sae-jia, Nattawach Sataudom, Piyalitt Ittichaiwong, Peerat Limkonchotiwat"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+details:
+  arxiv: https://arxiv.org/abs/2410.16221 
+  journal_name: EMNLP 2024 Finding 
+  journal_link: https://doi.org/10.48550/arXiv.2410.16221
+
+show_downloads: true
